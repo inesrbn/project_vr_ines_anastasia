@@ -341,7 +341,7 @@ Le joueur pousse le joystick pour avancer. La vitesse est réduite dans la War S
 **Interactions**
 Le jeu favorise des interactions épurées pour réduire la friction. Le joueur n'utilise que la gâchette arrière (index) pour répondre à la psy (et une fois le bouton A pour continuer le dialogue de la psy), exécuter les QTE, ou utiliser le pointeur laser (Ray Controller) sur les interfaces World Space. 
 
-![image.png](image%201.png)
+![image.png](image_1.png)
 
 **Hallucinations et triggers**
 Les hallucinations sont déclenchées par des sons spatialisés (radio, klaxon) ou des zones de proximité scriptées. Elles forcent le joueur à subir des flashbacks sans possibilité de fuite.
@@ -432,7 +432,7 @@ Avant l'intervention, les scènes saturaient le processeur graphique avec un ren
 
 **Grâce aux optimisations, nous avons stabilisé le Frame Time entre 16 ms et 30 ms selon les scènes.**
 
-![image.png](image%202.png)
+![image.png](image_2.png)
 
 ### Optimisations CPU (scripts & physique)
 
