@@ -27,6 +27,8 @@ VIDEO DEMO : [https://drive.google.com/file/d/1VuckzFpk7_Xu_YPAelalTek5L4ufE3F4/
 
 Les captures vidéo ont été réalisées via le retour écran de l'ordinateur lors de l'utilisation du casque, ce qui explique l'absence de son sur les séquences. Par ailleurs, le partage du matériel entre trois groupes a limité le temps d'accès au casque, constituant une contrainte supplémentaire pour les phases de test et d'optimisation en conditions réelles.
 
+NOTION : https://www.notion.so/Unity-VR-352b2de42dd4806b888df8f18ae1d7bd?source=copy_link
+
 ---
 
 ## 🧠 Présentation du projet
